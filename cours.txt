@@ -1,0 +1,7 @@
+-créer un fichier style.scss que l'on peut convertir avec koala en.css
+le scss permet de créer des variables on l'on contient des infos utilisables ultérieurement comme des couleurs etc...
+
+-le site "normalize" permet de 
+-le site "Font Awesome" contient un bible de picto
+
+32 minutes

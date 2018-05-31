@@ -1,0 +1,82 @@
+* {
+	box-sizing: border-box;
+}
+
+body{
+	font-family: 'Montserrat', sans-serif;
+	background-image: linear-gradient(
+		#B2DFEE,
+		#27435a
+		);
+	height: 2000px;
+	width:1920px;
+
+}
+
+.wrapper{
+	max-width: 90%;
+	width: 85%;
+	margin: 0 auto;
+}
+.banner{
+	background-image: linear-gradient(
+		#B2DFEE,
+		#27435a
+		);
+	height: 100%
+}
+a{
+	color:#7EA6E1;
+	font-size: 2em;
+	text-decoration: none;
+	transition: transform 0.5s ease-in-out
+}
+a:hover{
+	color: white;
+	transform: scale(1.1,1.1);
+}
+
+#top_header{
+
+	padding-top: 3em;
+	padding-bottom: 3em ;
+	border-bottom: 0.5px solid white;
+}
+.brand{
+	float-left:;
+}
+.span{
+	border: 2px solid white;
+	border-radius: 100%;
+	margin-right: 10px;
+}
+.back_button{
+	float:right;
+}
+.logo{
+	width: 70px;
+	height: 70px
+}
+.intro{
+	text-align: center;
+}
+p{
+	color: #f9f9f9
+}
+h1{
+	color: #f9f9f9
+}
+.button1{
+border-radius: 10px;
+background-color : #B2DFEE;
+display: inline-block;
+min-width: 150px;
+min-height:70px;
+text-align: center;
+margin-right: 1.1em;
+margin-top: 1.2em
+}
+
+.button2{
+transform: scale(2,3);
+}
